@@ -1,0 +1,33 @@
+_repo: The-Survey-Volume-XXX-Number-1-April-5-1913_43625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43625-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Kellogg, Paul Underwood
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '42331'
+    url: http://www.gutenberg.org/2009/agents/42331
+description: ''
+gutenberg_issued: '2013-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charities -- Periodicals'
+- !lcsh 'Social problems -- Periodicals'
+- !lcc 'HV'
+- !lcsh 'United States -- Social conditions -- Periodicals'
+title: The Survey, Volume XXX, Number 1, April 5, 1913
+url: http://www.gutenberg.org/ebooks/43625
