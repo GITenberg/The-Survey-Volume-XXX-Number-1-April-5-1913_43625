@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42331'
     url: http://www.gutenberg.org/2009/agents/42331
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43625#The-Survey-Volume-XXX-Number-1-April-5-1913
 gutenberg_issued: '2013-09-02'
 gutenberg_type: Text
 identifiers:
